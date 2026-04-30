@@ -1,6 +1,6 @@
 # IceDMD: Sea Ice Concentration Forecasting with Dynamic Mode Decomposition
 
-![](https://raw.githubusercontent.com/alan-turing-institute/IceDMD-Antarctic-Paper/refs/heads/main/icedmd_logo.png)
+![](https://raw.githubusercontent.com/alan-turing-institute/IceDMD/refs/heads/main/icedmd_logo.png)
 
 ## Papers:
 1. Multiscale decomposition reveals predictable interannual variability and climate trends in Antarctic sea ice loss
